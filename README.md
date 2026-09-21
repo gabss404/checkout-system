@@ -1,4 +1,4 @@
-# 🛒 Checkout System
+# 🛒 Checkout Systemm
 
 Checkout system built with **Java**, applying **advanced Object-Oriented Programming (OOP) concepts**. The project simulates an online store's order flow, with stock control, discount coupons, and order status tracking.
 
